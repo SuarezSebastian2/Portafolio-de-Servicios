@@ -417,7 +417,7 @@ footer ul li:hover:nth-child(3) a{
 footer ul li:hover:nth-child(3) a:before{
   background: #b33a2b;
 }
-footer ul li:hover:nth-child(3) a:after{
+footer ul li:hover:nth-child(3) a::after{
   background: #e66a5a;
 }
 
